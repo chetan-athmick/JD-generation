@@ -23,6 +23,7 @@ def generate(job_title,experience,primary_skills,secondary_skills):
                     6. Secondary Skills
                     7. Qualifications
                   These topics must have in that Generated Job Description.
+                need above response well formated in HTML content.
                   """}
         ]
                 
